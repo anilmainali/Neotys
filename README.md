@@ -4,6 +4,8 @@
 
 ## About : https://www.neotys.com/about-neotys
 
+### Documentation : http://www.neotys.com/support/documentation
+
 ### Resources : https://www.neotys.com/resources
 
 ### Blog : http://www.neotys.com/blog/
