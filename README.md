@@ -8,6 +8,8 @@
 
 ### Resources : https://www.neotys.com/resources
 
+https://www.youtube.com/watch?v=UqSSKiIc6d0&feature=youtu.be
+
 ### Blog : http://www.neotys.com/blog/
 
 ### Twitter : https://twitter.com/neotys
