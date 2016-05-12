@@ -4,3 +4,9 @@
 
 ## About : https://www.neotys.com/about-neotys
 
+### Resources : https://www.neotys.com/resources
+
+### Blog : http://www.neotys.com/blog/
+
+### 
+
