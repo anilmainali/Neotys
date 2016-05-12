@@ -10,6 +10,10 @@
 
 ### Blog : http://www.neotys.com/blog/
 
+### Twitter : https://twitter.com/neotys
+
+### You Tube : https://www.youtube.com/user/NeotysLoadTesting
+
 ### Pricing : https://www.neotys.com/neoload/pricing
 
 ### Download : https://www.neotys.com/download
