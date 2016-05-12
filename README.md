@@ -8,5 +8,9 @@
 
 ### Blog : http://www.neotys.com/blog/
 
-### 
+### Pricing : https://www.neotys.com/neoload/pricing
+
+### Download : https://www.neotys.com/download
+
+### Neotys Academy : http://www.neotys.com/professional-services/neotys-academy
 
