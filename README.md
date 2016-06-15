@@ -1,24 +1,27 @@
 # Neotys
 
-## Official URL : http://www.neotys.com/
+#### Official URL : http://www.neotys.com/
 
-## About : https://www.neotys.com/about-neotys
+#### About : https://www.neotys.com/about-neotys
 
-### Documentation : http://www.neotys.com/support/documentation
+#### Documentation : http://www.neotys.com/support/documentation
 
-### Resources : https://www.neotys.com/resources
+#### NeoLoad 5.2 documentation
+http://www.neotys.com/documents/doc/neoload/latest/en/html/#2983.htm
+
+#### Resources : https://www.neotys.com/resources
 
 https://www.youtube.com/watch?v=UqSSKiIc6d0&feature=youtu.be
 
-### Blog : http://www.neotys.com/blog/
+#### Blog : http://www.neotys.com/blog/
 
-### Twitter : https://twitter.com/neotys
+###3 Twitter : https://twitter.com/neotys
 
-### You Tube : https://www.youtube.com/user/NeotysLoadTesting
+#### You Tube : https://www.youtube.com/user/NeotysLoadTesting
 
-### Pricing : https://www.neotys.com/neoload/pricing
+###3 Pricing : https://www.neotys.com/neoload/pricing
 
-### Download : https://www.neotys.com/download
+#### Download : https://www.neotys.com/download
 
-### Neotys Academy : http://www.neotys.com/professional-services/neotys-academy
+#### Neotys Academy : http://www.neotys.com/professional-services/neotys-academy
 
