@@ -25,3 +25,8 @@ https://www.youtube.com/watch?v=UqSSKiIc6d0&feature=youtu.be
 
 #### Neotys Academy : http://www.neotys.com/professional-services/neotys-academy
 
+#### Resources
+
+#### NeoTys Introduction:
+http://www.neotys.com/resources/neoload-in-3-minutes
+
